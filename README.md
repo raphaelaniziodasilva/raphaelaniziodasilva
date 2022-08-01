@@ -1,4 +1,4 @@
-### Olá! eu sou o Raphael Anizio da Silva
+### Olá! eu sou Raphael Anizio da Silva
 ## Desenvolvedor Web! 
 
 - 🔭 Trabalhando na minha transição de carreira.
