@@ -1,11 +1,18 @@
-### Olá! eu sou Raphael Anizio da Silva
-## Desenvolvedor Web! 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!,+eu+sou+Raphael+Anizio.;Desenvolvedor+Web!)](https://git.io/typing-svg)
 - 🔭 Trabalhando na minha transição de carreira.
 - 🌱 Participando da #43 XP Gama Experience Desenvolvimento Web (Gama Academy)
 - 🌱 Estudante
 - 📫 Email para contato: raphaelanizio@gmail.com
 - 💭 Aprendendo coisas novas todos os dias
+
+##
+### Você também pode me encontrar aqui:
+<div align="center">  
+  <a href ="https://www.linkedin.com/in/raphael-anizio-da-silva-0173211b8/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href ="mailto:raphaelanizio@.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href ="https://wa.me/5511970371923"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
 
 <div style="display: inline_block"  align="center">
   <a href="https://github.com/raphaelaniziodasilva">
