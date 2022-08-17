@@ -13,7 +13,7 @@
 </div>
 
 ##
-### My GitHub Stats:
+### Meu GitHub Stats:
 <div style="display: inline_block"  align="center">
   <a href="https://github.com/raphaelaniziodasilva">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=raphaelaniziodasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
