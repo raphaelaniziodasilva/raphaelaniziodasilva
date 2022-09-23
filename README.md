@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!,+eu+sou+Raphael+Anizio.;Desenvolvedor+Web!)](https://git.io/typing-svg)
 - 🔭 Apaixonado por programação principalmente quando o codigo da certo
-- 🌱 Participando da #43 XP Gama Experience Desenvolvimento Web (Gama Academy)
+- 🌱 Participando da #43 XP Gama Experience Desenvolvimento Full Stack (Gama Academy)
 - 🌱 Estudante
 - 📫 Email para contato: raphaelanizio@gmail.com
 - 💭 Aprendendo coisas novas todos os dias
