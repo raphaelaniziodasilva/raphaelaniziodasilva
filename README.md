@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!,+eu+sou+Raphael+Anizio.;Desenvolvedor+Web+Jr)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá!,+eu+sou+Raphael+Anizio.;Desenvolvedor+Web)](https://git.io/typing-svg)
 - 🔭 Apaixonado por programação
 - 🌱 Participando da #43 XP Gama Experience Desenvolvimento Full Stack (Gama Academy)
 - 🌱 Estudante
